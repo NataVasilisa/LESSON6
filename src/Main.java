@@ -12,10 +12,10 @@ public class Main {
     for (Person person : persArray) {
         person.print();
     }
-        Park park = new Park();
-        Park.Attraction attraction1 = new Park.Attraction("Супер 8", "9:00 - 17:00", 5);
+        AmuseumentPark park = new AmuseumentPark();
+        AmuseumentPark.Attraction attraction1 = new AmuseumentPark.Attraction("Супер 8", "9:00 - 17:00", 5);
         park.addAttraction(attraction1);
-        Park.Attraction attraction2 = new Park.Attraction("Машинки", "10:00 - 18:00", 10);
+        AmuseumentPark.Attraction attraction2 = new AmuseumentPark.Attraction("Машинки", "10:00 - 18:00", 10);
         park.addAttraction(attraction2);
         System.out.println(park);
     }

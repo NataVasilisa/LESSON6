@@ -1,8 +1,7 @@
-import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Park {
-    public Park() {
+public class AmuseumentPark {
+    public AmuseumentPark() {
         this.attractions = new Attraction[0];
     }
     public Attraction[] getAttractions() {

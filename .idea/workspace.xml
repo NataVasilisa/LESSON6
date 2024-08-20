@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67edc4c2-ebfb-4f19-b15c-07dc80cdb176" name="Changes" comment="Второе домашнее задание по java" />
+    <list default="true" id="67edc4c2-ebfb-4f19-b15c-07dc80cdb176" name="Changes" comment="изменено">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Park.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AmuseumentPark.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +29,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NataVasilisa"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NataVasilisa/LESSON6.git",
+    "accountId": "5ece3f48-6e32-4f1a-8369-6707c3624b97"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -50,6 +66,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/skifs/IdeaProjects/LESSON6/src/Main.java",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -83,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724056554378</updated>
-      <workItem from="1724056555482" duration="14862000" />
+      <workItem from="1724056555482" duration="16609000" />
     </task>
     <task id="LOCAL-00001" summary="Второе домашнее задание по java">
       <option name="closed" value="true" />
@@ -101,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724173735569</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Второе домашнее задание по java">
+      <option name="closed" value="true" />
+      <created>1724174096100</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724174096100</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +134,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Второе домашнее задание по java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Второе домашнее задание по java" />
+    <MESSAGE value="изменено" />
+    <option name="LAST_COMMIT_MESSAGE" value="изменено" />
   </component>
 </project>
